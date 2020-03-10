@@ -1,0 +1,61 @@
+.div_display{
+    border: 7px solid orange;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    align-items: center;  
+    background-color: orangered; 
+    justify-content: center;
+    padding:10px; 
+    width: fit-content;
+}
+.div_display2{
+    border: 7px solid orange;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    align-items: center;   
+    background-color: orangered;
+    justify-content: center; 
+    padding:10px;
+    width: fit-content;
+}
+
+
+img{
+    padding: 10px;
+    width: 400px;
+    height: 275px;
+}
+hr{
+   
+    border: 10px dotted pink;
+}
+
+h1{
+    text-align: center;
+    width : fit-content;
+	height : fit-content;
+	margin : auto;
+	padding : 50px;
+    border : 10px dashed red;
+    font-style: bold;
+    font-size: 60px;
+    background-color: lightsalmon;
+}
+h2,h3{
+    font-size:30px;
+    width: fit-content;
+    height: fit-content;
+    border: 5px solid royalblue;
+    padding : 10px;
+    
+}
+body{
+    background-image: url(bg2.jpg);
+}
+.Animation,.Modelling{
+    font-size: 30px;
+
+}
+
